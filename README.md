@@ -1,4 +1,4 @@
-# 🧠 Simple LLM Chatbot using LangGraph + Groq
+# 🧠LLM Chatbot using LangGraph + Groq
 
 This is a basic chatbot project built using:
 
@@ -29,5 +29,5 @@ This is a basic chatbot project built using:
 
 ---
 
-## 📁 Folder Structure
+
 
